@@ -1,3 +1,5 @@
+Online Retail II
+
 Descripción del proyecto
 
 Este proyecto analiza datos de ventas de un e-commerce utilizando SQL (SQLite) y Python para extraer insights de negocio relevantes.
