@@ -72,10 +72,10 @@ Insight:
 Se observan patrones de estacionalidad en el comportamiento de compra.
 
 Conclusiones de negocio:
-Los productos de decoración son los principales generadores de ingresos
-Existe un grupo de clientes de alto valor que debe ser priorizado
-Hay oportunidades de crecimiento en mercados internacionales
-La limpieza de datos es clave para obtener insights confiables
+Los productos de decoración son los principales generadores de ingresos.
+Existe un grupo de clientes de alto valor que debe ser priorizado.
+Hay oportunidades de crecimiento en mercados internacionales.
+La limpieza de datos es clave para obtener insights confiables.
 
 ## Nota
 El archivo `retail.db` no se incluye en el repositorio porque es generado localmente a partir del dataset original.
